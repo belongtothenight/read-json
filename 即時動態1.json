@@ -1,0 +1,14 @@
+{
+  "datas" : [ {
+    "BusID" : "022C0000",
+    "ProviderID" : "65535",
+    "DutyStatus" : 90,
+    "BusStatus" : "90"   
+   
+  },{
+    "BusID" : "KKA-8155",
+    "ProviderID" : "34",
+    "DutyStatus" : "0",
+    "BusStatus" : "0"  
+  } ]
+}
